@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on improving my self in up coming new technology.<br>I'm looking for help with teaching me new technology.<br>I'm currently learning about DSA and AI fields.<br>Ask me about:- C, C++, Python, HTML, CSS, JS, JQuery, Bootstrap, sql, sqlite, mysql, Oracle, node.js, .net, ajex ,ect.<br>Fun fact:- Debugging life at night — because my best ideas run only when I’m about to sleep.  
+-I'm currently working on improving my self in up coming new technology.<br>-I'm looking for help with teaching me new technology.<br>-I'm currently learning about DSA and AI fields.<br>-Ask me about:- C, C++, Python, HTML, CSS, JS, JQuery, Bootstrap, sql, sqlite, mysql, Oracle, node.js, .net, ajex ,ect.<br>-Fun fact:- Debugging life at night — because my best ideas run only when I’m about to sleep.  
 
 
 ## 🌐 Socials:
